@@ -9,10 +9,11 @@ import time
 # DEFINE
 IP_FILE_LOCATION = 'currentIp.txt'
 IP_RETRIVAL_INTERVAL = 2  # seconds
+LOG_FILE_LOCATION = 'audel.log'
 
 # intiate logging
 logging.basicConfig(
-    filename='audel.log', filemode='a',
+    filename=LOG_FILE_LOCATION, filemode='a',
     format='%(asctime)s %(levelname)-8s %(message)s',
     level=logging.INFO,
     datefmt='%Y-%m-%d %H:%M:%S')
@@ -103,8 +104,6 @@ def update_entry(id):
     )
     return(response)
 
-
-# sys.exit()
 
 if arr_len == 0:
     logging.info('No domain entry Found. Creating new one...')
