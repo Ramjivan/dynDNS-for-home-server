@@ -1,0 +1,17 @@
+2020-12-21 23:20:07 INFO     No IP change Detected!
+2020-12-21 23:20:29 WARNING  IP file does not exists.. Creating new file
+2020-12-21 23:20:31 INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2020-12-21 23:20:33 INFO     No domain entry Found. Creating new one...
+2020-12-21 23:21:52 INFO     No IP change Detected!
+2020-12-21 23:22:21 INFO     No IP change Detected!
+2020-12-21 23:22:33 WARNING  IP file does not exists.. Creating new file
+2020-12-21 23:22:34 INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2020-12-21 23:22:36 ERROR    Found multiple domain entries... Deleting all old entries...
+2020-12-21 23:22:37 INFO     {'operation': {'id': 'a6b37935-bd53-486c-bf67-97de507558f6', 'resourceName': 'badaramdwara.org', 'resourceType': 'Domain', 'createdAt': datetime.datetime(2020, 12, 21, 23, 22, 36, 510000, tzinfo=tzlocal()), 'location': {'availabilityZone': 'all', 'regionName': 'global'}, 'isTerminal': True, 'operationDetails': '', 'operationType': 'DeleteDomainEntry', 'status': 'Succeeded', 'statusChangedAt': datetime.datetime(2020, 12, 21, 23, 22, 36, 510000, tzinfo=tzlocal())}, 'ResponseMetadata': {'RequestId': '9f675419-3ede-44d3-a744-805d3a1fa639', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Mon, 21 Dec 2020 17:52:36 GMT', 'content-type': 'application/x-amz-json-1.1', 'content-length': '336', 'connection': 'keep-alive', 'x-amzn-requestid': '9f675419-3ede-44d3-a744-805d3a1fa639'}, 'RetryAttempts': 0}}
+2020-12-21 23:22:39 INFO     {'operation': {'id': '5415b005-faed-43a7-b0c7-f527510c11d5', 'resourceName': 'badaramdwara.org', 'resourceType': 'Domain', 'createdAt': datetime.datetime(2020, 12, 21, 23, 22, 37, 590000, tzinfo=tzlocal()), 'location': {'availabilityZone': 'all', 'regionName': 'global'}, 'isTerminal': True, 'operationDetails': '', 'operationType': 'DeleteDomainEntry', 'status': 'Succeeded', 'statusChangedAt': datetime.datetime(2020, 12, 21, 23, 22, 37, 590000, tzinfo=tzlocal())}, 'ResponseMetadata': {'RequestId': '0430276f-ec82-40c4-97b1-eba08300ea5c', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Mon, 21 Dec 2020 17:52:37 GMT', 'content-type': 'application/x-amz-json-1.1', 'content-length': '336', 'connection': 'keep-alive', 'x-amzn-requestid': '0430276f-ec82-40c4-97b1-eba08300ea5c'}, 'RetryAttempts': 0}}
+2020-12-21 23:22:39 INFO     Creating new Domain Entry...
+2020-12-21 23:22:40 INFO     {'operation': {'id': '5d98744a-b868-4c35-aa4a-a4dd7311ac2f', 'resourceName': 'badaramdwara.org', 'resourceType': 'Domain', 'createdAt': datetime.datetime(2020, 12, 21, 23, 22, 38, 976000, tzinfo=tzlocal()), 'location': {'availabilityZone': 'all', 'regionName': 'global'}, 'isTerminal': True, 'operationDetails': '', 'operationType': 'CreateDomainEntry', 'status': 'Succeeded', 'statusChangedAt': datetime.datetime(2020, 12, 21, 23, 22, 38, 976000, tzinfo=tzlocal())}, 'ResponseMetadata': {'RequestId': '81aefbe8-7337-4903-b272-c46ed38b8c5d', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Mon, 21 Dec 2020 17:52:38 GMT', 'content-type': 'application/x-amz-json-1.1', 'content-length': '338', 'connection': 'keep-alive', 'x-amzn-requestid': '81aefbe8-7337-4903-b272-c46ed38b8c5d'}, 'RetryAttempts': 0}}
+2020-12-21 23:22:56 INFO     No IP change Detected!
+2020-12-21 23:23:02 INFO     No IP change Detected!
+2020-12-21 23:23:06 INFO     No IP change Detected!
+2020-12-21 23:23:12 INFO     No IP change Detected!
